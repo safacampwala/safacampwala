@@ -1,3 +1,3 @@
                                               Welcome to My GitHub Profile
-_________________________________________________________________________________________________________________
+                                              <hr>
                                          Frontend Developer | UI/UX Enthusiast
