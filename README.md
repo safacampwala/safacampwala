@@ -28,10 +28,10 @@
 
 ## 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=safacampwala&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=safacampwala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
