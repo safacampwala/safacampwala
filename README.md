@@ -1,6 +1,6 @@
 <p align="left">
 <a href=https://www.linkedin.com/in/safa-khalid-2258b2302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/safacampwala"><img src=["https://skillicons.dev/icons?i=github"]https://github.com/safacampwala /></a>
+<a href="https://github.com/safacampwala"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:safacampwala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
