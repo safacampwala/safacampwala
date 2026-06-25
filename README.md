@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
- I'm passionate about building modern web applications and creating innovative solutions.I enjoy working with Frontend Development using HTML, CSS, JavaScript etc.Through my internship at DeveloperHub, I am working on practical data-related tasks, reporting, and API-based workflows. This experience is allowing me to strengthen my technical abilities while developing a deeper understanding of industry standards and real-world processes.
+ I'm passionate about building modern web applications and creating innovative solutions.I enjoy working with Frontend Development using HTML, CSS, JavaScript etc.Through my internship at Developers Hub, I am working on practical data-related tasks, reporting, and API-based workflows. This experience is allowing me to strengthen my technical abilities while developing a deeper understanding of industry standards and real-world processes.
 
  
 ---
